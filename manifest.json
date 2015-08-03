@@ -1,0 +1,13 @@
+{
+	"name": "Content Test",
+	"manifest_version": 2,
+	"version": "1",
+	"content_scripts": [
+		{
+			"js": [ "content.js" ],
+			"css": [ "content.css" ],
+			"matches": [ "https://*.facebook.com/*" ],
+			"run_at": "document_end"
+		}
+	]
+}

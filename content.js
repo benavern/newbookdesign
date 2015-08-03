@@ -1,0 +1,1 @@
+console.log("Rien pour le moment. \nNe pas oublier de faire ctrl+R a chaque changement css ou js sur la page des extensions!");

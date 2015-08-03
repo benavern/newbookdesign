@@ -1,0 +1,108 @@
+
+/*
+	PROFILE PAGE
+*/
+
+/* profile */
+
+._6-d #fbTimelineHeadline .profilePicThumb{
+	top: -243px !important;	
+}
+#fbTimelineHeadline .profilePicThumb{
+	border-radius:50% !important;
+}
+#fbTimelineHeadline .profilePic{
+	border-radius:50% !important;
+	border-width: 2px !important;
+}
+html #fbProfileCover ._5ycb ._23fv {
+    bottom: 120px !important;
+    left: 75px !important;
+}
+._70k {
+	padding-left: 0 !important;
+}
+._6-e{
+	left:20px !important;
+}
+
+
+
+
+/*
+	Blue Bar
+*/
+
+._4f7n {
+	height: 64px !important;
+	border-bottom: none !important;
+	background: #3B5999 !important;
+	box-shadow: 0 0px 20px 3px rgba(0, 0, 0, .52) !important;
+}
+._uaw {
+	position: relative !important;
+	top: 11px !important;
+	width: auto !important;
+	margin-left: 141px !important;
+	margin-right: 158px !important;
+}
+
+#globalContainer {
+	padding-top: 45px !important;
+}
+
+._2-d1{
+	top: auto !important;
+}
+
+
+
+/*left & right*/
+._1vc- , 
+#leftCol,
+#rightCol{
+	display:none !important;
+}
+
+
+
+
+/*Center*/
+
+._5nb8, 
+.fbTimelineCapsule .fbTimelineUnit[data-type="s"] .topBorder , 
+.fbTimelineCapsule .fbTimelineUnit[data-type="s"] .bottomBorder, 
+html .fbTimelineTwoColumn[data-type="s"] .fbTimelineComposerUnit,
+._4lh .fbTimelineTwoColumn[data-type="s"],
+#contentArea{
+	width: 100% !important;
+}
+
+html ._5vb_.hasLeftCol #contentCol{
+	margin-left:0 !important;
+}
+
+
+
+
+
+
+/*subtilities!*/
+
+._5qqe {
+	height:65px !important;
+}
+
+.uiScaledImageContainer{
+	width: 100% !important;
+	height: 400px !important;
+}
+._8t,
+._6ks{
+	width: 400px !important;
+}
+
+._2a2q,
+._4-eo{
+	margin: 0 auto !important;
+}
